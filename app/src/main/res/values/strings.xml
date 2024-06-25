@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopExpress</string>
+    <string name="app_loading">Cargando...</string>
+
+    <!--    errors-->
+    <string name="error_email">Correo electrónico requerido</string>
+    <string name="error_password">Contarseña requerido</string>
+</resources>
